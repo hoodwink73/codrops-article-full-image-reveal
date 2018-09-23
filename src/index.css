@@ -1,0 +1,16 @@
+body {
+  --
+}
+    
+	.grid {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		display: grid;
+		grid-template-columns: 16vw 16vw 16vw 20vw 12vw;
+		grid-column-gap: 5vw;
+		pointer-events: none;
+		overflow: hidden;
+	}
