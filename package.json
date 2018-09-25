@@ -1,7 +1,7 @@
 {
-  "name": "parcel-sandbox",
+  "name": "full-image-reveal",
   "version": "1.0.0",
-  "description": "Simple Parcel Sandbox",
+  "description": "This is a playground to simulate full image reveal article from codrops.\n\nTake a look at README to get a link to the article.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -10,5 +10,6 @@
   "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "keywords": []
 }
