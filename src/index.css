@@ -18,3 +18,15 @@ body {
 .grid__box {
   border: 1px solid var(--color-lines);
 }
+
+.grid__item {
+  align-self: end;
+}
+
+.grid__item-imgwrap {
+  overflow: hidden;
+}
+
+.grid__item-imgwrap-img {
+  width: 100%;
+}
